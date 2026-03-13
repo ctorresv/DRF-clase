@@ -1,0 +1,18 @@
+[
+    {
+        "model": "blog.post",
+        "pk":1,
+        "fields":{
+            "titulo": "Post Fixture",
+            "contenido": "Contenido de prueba"
+        }
+    },
+    {
+        "model": "blog.post",
+        "pk":2,
+        "fields":{
+            "titulo": "Post Fixture",
+            "contenido": "Contenido de prueba"
+        }
+    }
+]
